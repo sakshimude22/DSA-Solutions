@@ -1,3 +1,11 @@
+#include <bits/stdc++.h>
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
 void increment(int &a, int &b){
     int temp = a;
     a = a + b;
