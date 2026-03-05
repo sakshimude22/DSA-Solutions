@@ -1,0 +1,2 @@
+-- using db2
+SELECT CITY, STATE FROM STATION;
