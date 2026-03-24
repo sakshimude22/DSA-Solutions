@@ -1,0 +1,4 @@
+-- using ms sql server
+SELECT SUM(POPULATION)
+FROM CITY
+WHERE DISTRICT = 'California';
