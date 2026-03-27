@@ -1,0 +1,3 @@
+-- using ms sql server
+SELECT MAX(POPULATION) - MIN(POPULATION)
+FROM CITY;
