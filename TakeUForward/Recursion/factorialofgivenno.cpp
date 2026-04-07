@@ -1,4 +1,4 @@
-// Fctorial of Given number
+// Factorial of Given number
 class Solution{	
 	public:
 		long long int factorial(int n){
