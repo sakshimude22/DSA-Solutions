@@ -1,0 +1,36 @@
+// Sets-STL
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+#include <set>
+using namespace std;
+
+
+int main() {
+    int q;
+    cin >> q;
+
+    set<int> s;
+
+    while (q--) {
+        int type, x;
+        cin >> type >> x;
+
+        if (type == 1) {
+            s.insert(x);
+        }
+        else if (type == 2) {
+            s.erase(x);
+        }
+        else {
+            if (s.find(x) != s.end())
+                cout << "Yes" << endl;
+            else
+                cout << "No" << endl;
+        }
+    }
+
+    return 0;
+}
