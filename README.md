@@ -8,7 +8,7 @@ This repository contains my **Data Structures and Algorithms (DSA)** solutions s
 - **HackerRank**
 
 ## About
-- Solutions are written in **C++**
+- Solutions are written in **C++**, **Python**
 - Only the **core solution code** is uploaded (no unnecessary boilerplate)
 - Problems are organized **topic-wise** for easy navigation
 - Focused on **clean, optimized, and interview-relevant** approaches
@@ -17,5 +17,3 @@ This repository contains my **Data Structures and Algorithms (DSA)** solutions s
 - Track my DSA learning and problem-solving journey
 - Strengthen concepts for **coding interviews**
 - Maintain a well-structured reference for revision
-
-## Folder Structure
