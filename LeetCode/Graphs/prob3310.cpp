@@ -1,4 +1,4 @@
-// narrative + audit trail: APIs used, apis skipped and why, thresholds crossed
+// 3310. Remove Methods From Project
 constexpr int MAXN = 100005;
 
 class Solution {
